@@ -8,7 +8,7 @@ Mental health issues like depression and anxiety are widespread but difficult to
 
 This project builds an automated system to identify potential mental health risks from Reddit text data by:
 
-1. **Data Collection & Processing**: Extracting and cleaning Reddit posts from mental health-related subreddits
+1. **Data Collection & Processing**: Collecting and cleaning Reddit posts from mental health-related subreddits datasets
 2. **Risk Classification**: Using NLP and machine learning to classify text for mental health risk indicators
 3. **Interpretable Results**: Creating explainable models that highlight risky phrases and provide transparent predictions
 4. **Interactive Application**: Developing a user-friendly dashboard/API for real-time risk assessment
@@ -17,4 +17,4 @@ The goal is to create an ethical, reproducible pipeline that bridges the gap bet
 
 ## Dataset
 
-Currently working with ADHD-related Reddit comments as a starting point for model development and validation.
+Currently working with mental health-related Reddit datasets as a starting point for model development and validation.
